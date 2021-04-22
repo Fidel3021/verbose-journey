@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap');
+
+* {
+    background-color: lightblue;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: 'Assistant', sans-serif;
+    color: orangered;
+    padding: 50px 100px 50px;
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 101px;
+    color: orangered;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 43px;
+    color: orangered;
+}
+
+h3 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 22px;
+    color: orangered;
+}
+
+h4 {
+    font-family: 'Assistant', sans-serif;
+    color: orangered;
+}
